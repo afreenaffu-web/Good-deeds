@@ -111,6 +111,7 @@ sectionp{
 }
 .banner-area .banner-img{
     background-image: url(hunger.jpeg);
+    background-position: center center;
     position: absolute;
     top: 0;
     left: 0;
